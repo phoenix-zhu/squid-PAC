@@ -1,4 +1,4 @@
-var proxy = "PROXY 你的ip地址:25;";
+var proxy = "PROXY bastion.toc.chatops.in:3128;";
 
 var domains = {
   "*.google": 1,
